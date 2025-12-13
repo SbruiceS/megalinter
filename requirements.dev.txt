@@ -23,3 +23,4 @@ beautifulsoup4
 giturlparse
 json-schema-for-humans
 # flask-restful
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
